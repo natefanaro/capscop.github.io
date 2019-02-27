@@ -1,5 +1,3 @@
-[@CapsCop](http://twitter.com/CapsCop) was an advanced Twitter bot. It searched for tweets that are in all capital letters and fired back a snarky reply to its author.
-
 **The CapsCop project ended in 2017.**
 
 ### Commands
