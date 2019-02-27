@@ -29,4 +29,4 @@ Few know what it is. Those that speak it will never be caught again. They also l
 * Australian radio show [Triple J](http://bit.ly/c9Iyrp)
 * New York Times [On the Twitter Patrol](http://nyti.ms/avmifi)
 * Washington Post [On Twitter, it's caps-lock and load](http://articles.washingtonpost.com/2012-12-09/lifestyle/35721890_1_tweet-bots-grammar)
-* As seen on  [Encyclopedia Dramatica](https://encyclopediadramatica.se/@CapsCop)
+* As seen on  [Encyclopedia Dramatica](https://encyclopediadramatica.rs/@CapsCop)
