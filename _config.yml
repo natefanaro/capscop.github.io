@@ -1,7 +1,7 @@
 title: "@CapsCop"
-description: 
+description: @CapsCop was an advanced Twitter bot. It searched for tweets that are in all capital letters and fired back a snarky reply to its author.
 google_analytics: UA-1091244-24
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
 
 gems:
