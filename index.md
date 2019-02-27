@@ -1,4 +1,6 @@
-[@CapsCop](http://twitter.com/CapsCop) is an advanced Twitter bot. It searches for tweets that are in all capital letters and fires back a snarky reply to its author. You can interact with the bot by issuing commands like #narc or #stats. Use this site to learn more about the bot and the people it has caught.
+[@CapsCop](http://twitter.com/CapsCop) was an advanced Twitter bot. It searched for tweets that are in all capital letters and fired back a snarky reply to its author.
+
+**The CapsCop project ended in 2017.**
 
 ### Commands
 
@@ -22,7 +24,7 @@ View the #stats of another user that you mention.
 We will check the timeline of who you ratted out. If one of their last 20 tweets is in all caps, we will bust them and you get a point. More points mean more perks!
 
 #### "the safeword"
-Few know what it is. Those that speak it will never be caught again. They also lose access to every command and forfeit any points. Believe it or not, you don't want that to happen.
+Few know what it is. Those that speak it will never be caught again. They also lose access to every command and forfeit any points. Believe it or not, you don't want that to happen. *(the safeword was banana)*
 
 ### @CapsCop in the media
 
