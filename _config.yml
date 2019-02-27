@@ -1,0 +1,8 @@
+title: "@CapsCop"
+description: 
+google_analytics: UA-1091244-24
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
